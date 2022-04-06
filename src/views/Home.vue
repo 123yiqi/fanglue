@@ -98,7 +98,7 @@ a:active {
   color: #fff;
 }
 .login_img {
-  background-image: url(http://valueprinterp.com/images/logo.jpg);
+  background-image: url(../assets/logo.jpg);
   width: 50%;
   height: 50px;
   margin: 15px 0px;
